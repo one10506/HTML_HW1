@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HsiaoWenHui</title>
+</head>
+<body>
+<img src="me.jpg" alt="me.com" width="300" height="400">
+<h1> 你想對我說甚麼?</h1><p>
+
+
+
+<p style="color:green;">Yo man寫在這裡吧</p>
+<hr>
+<a href="file:///D:/Users/HsiaoWenHui/Google%20%E9%9B%B2%E7%AB%AF%E7%A1%AC%E7%A2%9F/NTUST/105-2/%E7%B6%B2%E9%A0%81%E8%A3%BD%E4%BD%9C/HTML/self.html">首頁</a>
+<a href="file:///D:/Users/HsiaoWenHui/Google%20%E9%9B%B2%E7%AB%AF%E7%A1%AC%E7%A2%9F/NTUST/105-2/%E7%B6%B2%E9%A0%81%E8%A3%BD%E4%BD%9C/HTML/infor.html">個人資料</a>
+<a href="file:///D:/Users/HsiaoWenHui/Google%20%E9%9B%B2%E7%AB%AF%E7%A1%AC%E7%A2%9F/NTUST/105-2/%E7%B6%B2%E9%A0%81%E8%A3%BD%E4%BD%9C/HTML/others.html">別人對我說的話</a>
+</body>
+</html>
